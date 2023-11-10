@@ -125,19 +125,19 @@ div p {
 }
 
 #gluteo {
-    background: url(img/gluteo.png), lightgray 50% / cover no-repeat;
+    background: url(img/gluteo.png);
 }
 
 #costas {
-    background: url(img/costas.png), lightgray 50% / cover no-repeat;
+    background: url(img/costas.png);
 }
 
 #quads {
-    background: url(img/quads.png), lightgray 50% / cover no-repeat;
+    background: url(img/quads.png);
 }
 
 #peito {
-    background: url(img/peito.png), lightgray 50% / cover no-repeat;
+    background: url(img/peito.png);
 }
 
 footer {
